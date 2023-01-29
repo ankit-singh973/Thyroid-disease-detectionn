@@ -32,3 +32,9 @@ Model performance evaluated based on accuracy, confusion matrix, classification 
 The final model is deployed on AWS using Flask framework
 
 Don't forget to Starred the repository.
+
+## NOTE: Due to large size of jupyter notebook i have split the file into 3 parts and stored in Notebook folder
+1. EDA
+2. Model building before feature selection
+3. Feature selection and model building
+### However the main jupyter file named "Thyroid_disease_detection.ipynb" still present in parent repository.
