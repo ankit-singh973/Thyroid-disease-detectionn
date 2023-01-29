@@ -5,11 +5,13 @@ The main objective of this project is to predict if a person is having 'compensa
 Random Forest performed well with better accuracy (99.16%), precision and recall. ExtraTreesClassifier algorithm is used for feature selection and feature importance.
 
 # Technical aspect
+```
 Python 3.7
 Front-end: HTML
 Back-end: Flask framework
 IDE: Jupyter Notebook, PyCharm
 Deployment: AWS
+```
 
 # Data Collection
 The dataset is collected from UCI Machine Learning Repository, "Thyroid Disease Detection"
