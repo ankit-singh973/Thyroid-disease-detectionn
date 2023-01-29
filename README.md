@@ -20,8 +20,11 @@ The dataset is collected from UCI Machine Learning Repository, "Thyroid Disease 
 
 # Model Creation and Evaluation
 Various classification algorithms like  XG Boost, Random Forest, Decision Tree, and K-Nearest Neighbors tested.
+
 Random Forest gave best results. 
+
 Random Forest was chosen for the final model training and testing.
+
 Model performance evaluated based on accuracy, confusion matrix, classification report and AUC curve.
 
 
