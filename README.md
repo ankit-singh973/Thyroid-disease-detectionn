@@ -33,7 +33,8 @@ The final model is deployed on AWS using Flask framework
 
 Don't forget to Starred the repository.
 
-## NOTE: Due to large size of jupyter notebook i have split the file into 3 parts and stored in Notebook folder
+## NOTE: 
+Due to large size of jupyter notebook i have split the file into 3 parts and stored in **Notebooks** folder
 1. EDA
 2. Model building before feature selection
 3. Feature selection and model building
